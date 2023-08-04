@@ -1,0 +1,27 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  width: 45vw;
+  margin: 10px;
+}
+
+.image {
+  width: 45vw;
+  height: 35vh;
+}
+
+.headline {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: black;
+  padding: 5px;
+}
+
+.para {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: black;
+  padding: 5px;
+}
